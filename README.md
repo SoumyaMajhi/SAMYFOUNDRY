@@ -2,7 +2,7 @@
 A Sanf*undry Scraper for use in 2023 and after
 
 ## Instructions to use the code:
-1. Download the `samyfoundry.py` from this Github repo.
+1. Download the `samyfoundry.py` file from this Github repo.
 2. Install the required libraries in command prompt for windows:
 ```
 pip install cfscrape
