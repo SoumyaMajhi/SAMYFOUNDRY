@@ -16,8 +16,8 @@ pip install requests
 1. The `cfscrape` module bypasses the Cloudflare security and captcha present while entering the site of the provided link.
 2. Then it parses the HTML content of the webpage with the help of `BeautifulSoup`.
 3. The code automatically creates a text file within the same folder as the code file `samyfoundry.py`, with the name scraped from the provided link
-4. It scrapes the initial page containing all the topuc links and gathers all of them in a list.
-5. Then it parses each topic link and scarpes all the questions and answers, avoiding all the sticky banner ads, links and extra advertisements on the site
+4. It scrapes the initial page containing all the topic links and gathers all of them in a list.
+5. Then it parses each topic link and scrapes all the questions and answers, avoiding all the sticky banner ads, links and extra advertisements on the site
 6. And stores/appends each topic's Q/A in the text file created at the beginning.
 7. After it has completed parsing and scraping all the topics links, it stops the scraping loop, prints `End`, closes the file, prints `Total Topics Found: `, `Total Q/A Found: `, and stops the execution.
 8. In the meantime, while the code is being executed, it keeps printing the topic numbers and its total questions numbers, which has been successfully scraped and extracted into the file.
