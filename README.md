@@ -24,3 +24,4 @@ pip install requests
 
 
 **Note:** This code was written by me(Soumya Majhi / Samy) in April 2023 for my own personal academic purposes, as all other codes available in Github and elsewhere to scrape this website was outdated and didn't provide proper outputs. So, it should only be used for personal/academic purposes, and not for any type of commercial reasons.
+And, if anyone would like to use this code anywhere, just provide a link to this repository of mine there, that will be all needed.
