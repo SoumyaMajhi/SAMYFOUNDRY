@@ -27,4 +27,4 @@ pip install requests
 And, if anyone would like to use this code anywhere, just provide a link to this repository of mine there, that will be all that is needed.
 
 P.S. There is one problem in this code: It writes the the lines containing some form of code in single lines, instead of formatted, indented form of code.
-So, if anyone has any solution to this problem please feel free to reach out to me or write about it in the discussions section. (An important fact: the codes are contained in <pre> tags)
+So, if anyone has any solution to this problem please feel free to reach out to me or write about it in the discussions section. (An important fact: the codes are contained in `<pre>` tags)
