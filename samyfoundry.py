@@ -98,7 +98,7 @@ for l in lists:
             child.decompose()
         
         #questions
-        questions=divs.find_all('p')[1:]
+        questions=divs.find_all('p')[1:]  #no need of this line now, was needed for some earlier version of the code
         #print(questions)
 
         #answers
