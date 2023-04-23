@@ -33,4 +33,4 @@ And, if anyone would like to use this code anywhere, just provide a link to this
 So, if anyone has any solution to this problem please feel free to reach out to me or write about it in the discussions section. 
 (An important fact: the codes are contained in `<pre>` tags)~~
 
-P.S. Current problem is that it doesn't prints some special characters sometimes (like: �). Any suggestion would be helpful.
+P.S. Current problem is that it doesn't print some special characters sometimes (like: �). Any suggestion would be helpful.
