@@ -25,3 +25,6 @@ pip install requests
 
 **Note:** This code was written by me(Soumya Majhi / Samy) in April 2023 for my own personal academic purposes, as all other codes available in Github and elsewhere to scrape this website was outdated and didn't provide proper outputs. So, it should only be used for personal/academic purposes, and not for any type of commercial reasons.
 And, if anyone would like to use this code anywhere, just provide a link to this repository of mine there, that will be all that is needed.
+
+P.S. There is one problem in this code: It writes the the lines containing some form of code in single lines, instead of formatted, indented form of code.
+So, if anyone has any solution to this problem please feel free to reach out to me or write about it in the discussions section. (An important fact: the codes are contained in <pre> tags)
