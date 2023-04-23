@@ -23,4 +23,4 @@ pip install requests
 8. In the meantime, while the code is being executed, it keeps printing the topic numbers and its total questions numbers, which has been successfully scraped and extracted into the file.
 
 
-**Note:** This code was written by me in April 2023 for my own personal academic purposes, as all other codes available in Github and elsewhere to scrape this website was outdated and didn't provide proper outputs. So, it should only be used for personal/academic purposes, and not for any type of commercial reasons.
+**Note:** This code was written by me(Soumya Majhi / Samy) in April 2023 for my own personal academic purposes, as all other codes available in Github and elsewhere to scrape this website was outdated and didn't provide proper outputs. So, it should only be used for personal/academic purposes, and not for any type of commercial reasons.
